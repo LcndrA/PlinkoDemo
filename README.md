@@ -17,5 +17,5 @@ A - Left (Player 1)
 D - Right (Player 1)
 Spacebar - Drop ball (Player 1)
 Up Arrow - Push Ball Away (Player 2)
-Mouse - controls Magnet
+Mouse - controls Magnet (Player 2)
 
